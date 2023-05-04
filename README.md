@@ -16,6 +16,6 @@ This repo contains a Mini Dice Game I made in Flutter.
   </tr>
   
   <tr>
-    <td><img src="screenshots/dice_home.png" alt="home-page"></td>
+    <td><img src="screenshots/dice_home.png" alt="home-page" height="500px"></td>
   </tr>
 </table>
