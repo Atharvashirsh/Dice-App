@@ -12,7 +12,7 @@ This repo contains a Mini Dice Game I made in Flutter.
 ## In-App Screenshots
 <table align="center">
   <tr>
-    <td>Home Page</td>
+    <td align="center">Home Page</td>
   </tr>
   
   <tr>
